@@ -1,0 +1,29 @@
+
+HP 240@Corei5 MINGW64 ~/Desktop/Civilizaciones (master)
+$ mv hincas/incas/
+mv: missing destination file operand after 'hincas/incas/'
+Try 'mv --help' for more information.
+
+HP 240@Corei5 MINGW64 ~/Desktop/Civilizaciones (master)
+$ cd hicas
+bash: cd: hicas: No such file or directory
+
+HP 240@Corei5 MINGW64 ~/Desktop/Civilizaciones (master)
+$ cp hincas
+cp: missing destination file operand after 'hincas'
+Try 'cp --help' for more information.
+
+HP 240@Corei5 MINGW64 ~/Desktop/Civilizaciones (master)
+$ cd hicas
+bash: cd: hicas: No such file or directory
+
+HP 240@Corei5 MINGW64 ~/Desktop/Civilizaciones (master)
+$ cs hincas
+bash: cs: command not found
+
+HP 240@Corei5 MINGW64 ~/Desktop/Civilizaciones (master)
+$ git init Civilizaciones
+Initialized empty Git repository in C:/Users/HP 240/Desktop/Civilizaciones/Civilizaciones/.git/
+
+HP 240@Corei5 MINGW64 ~/Desktop/Civilizaciones (master)
+$
